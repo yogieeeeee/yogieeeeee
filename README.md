@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sedang fokus belajar backend developer <br>♥️ Pecinta kartu remi<br>🤩 Memiliki ketertarikan dengan dinosaurus <br>
+🔭 Sedang fokus belajar backend developer <br>♥️ Pecinta javascript<br> <br>
 
 
 # 💻 Tech Stack:
