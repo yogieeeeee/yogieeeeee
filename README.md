@@ -4,7 +4,7 @@
   <img src="./img/pode-pode-pode.gif" alt="Coding GIF" width="500" />
   
 ## 🌐 Socials:
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yogie_ai) 
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.linkedin.com/in/yogie-aditiya-407a94350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogie-aditiya) 
   [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogieaditiya976@gmail.com) 
 
@@ -44,5 +44,20 @@
 
 ---
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/yogieaditiya) 
+  <a href="https://saweria.co/yogieee" target="_blank">
+  <svg width="126.5" height="28" role="img" aria-label="SAWERIA">
+    <title>SAWERIA</title>
+    <g shape-rendering="crispEdges">
+      <rect width="126.5" height="28" fill="#f7df1e"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" 
+       text-rendering="geometricPrecision" font-size="100">
+      <!-- Ikon Capybar (ganti dengan path/ikon Anda) -->
+      <image x="9" y="7" width="14" height="14" href="./img/capy_happy.svg"/>
+      <!-- Teks SAWERIA -->
+      <text transform="scale(.1)" x="732.5" y="175" textLength="825" fill="#333" font-weight="bold">SAWERIA</text>
+    </g>
+  </svg>
+</a>
+
 </div>
