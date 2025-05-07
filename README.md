@@ -42,20 +42,6 @@
 
 ---
   ## 💰 You can help me by Donating
-  <a href="https://saweria.co/yogieee" target="_blank">
-  <svg width="126.5" height="28" role="img" aria-label="SAWERIA">
-    <title>SAWERIA</title>
-    <g shape-rendering="crispEdges">
-      <rect width="126.5" height="28" fill="#f7df1e"/>
-    </g>
-    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" 
-       text-rendering="geometricPrecision" font-size="100">
-      <!-- Ikon Capybar (ganti dengan path/ikon Anda) -->
-      <image x="9" y="7" width="14" height="14" href="./img/capy_happy.svg"/>
-      <!-- Teks SAWERIA -->
-      <text transform="scale(.1)" x="732.5" y="175" textLength="825" fill="#333" font-weight="bold">SAWERIA</text>
-    </g>
-  </svg>
-</a>
+[![Saweria](https://img.shields.io/badge/Saweria-F7DF1E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/yogieee)
 
 </div>
