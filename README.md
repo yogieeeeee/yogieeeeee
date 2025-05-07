@@ -1,5 +1,3 @@
-
-# This Is Yogie's Profile😎
 <div align="center">
   <img src="./img/pode-pode-pode.gif" alt="Coding GIF" width="500" />
   
