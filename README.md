@@ -36,6 +36,13 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yogieeeeee&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogieeeeee/yogieeeeee/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogieeeeee/yogieeeeee/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yogieeeeee/yogieeeeee/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
   ## 💰 You can help me by Donating
